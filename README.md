@@ -1,1 +1,1 @@
-# dmc_ed6
+# modificación sobre el archivo inicial
